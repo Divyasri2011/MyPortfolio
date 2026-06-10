@@ -42,9 +42,10 @@ a:hover{
 }
 #about_title{
     padding: 5px 0 5px 5px;
-    border: solid black;
+    border: #00C6CF;
     border-width: 0 0 2px 0;
     width: 300px;
+    color: #00C6CF;
 }
 .about_info{
     box-shadow: 0 0 10px rgba(0,0,0,1.0);
@@ -109,9 +110,10 @@ a:hover{
 }
 .title{
     width: 200px;
-    border: solid black;
+    border: #00C6CF;
     border-width: 0 0 2px 0;
     margin-left: 3px;
+    color: #00C6CF;
 }
 .links_sideBar{
     align-items: flex-start;
